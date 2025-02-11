@@ -208,3 +208,4 @@ C:\Users\fathi\source\repos\action\calc2.Tests\obj\Debug\net6.0\refint\calc2.Tes
 C:\Users\fathi\source\repos\action\calc2.Tests\obj\Debug\net6.0\calc2.Tests.pdb
 C:\Users\fathi\source\repos\action\calc2.Tests\obj\Debug\net6.0\calc2.Tests.genruntimeconfig.cache
 C:\Users\fathi\source\repos\action\calc2.Tests\obj\Debug\net6.0\ref\calc2.Tests.dll
+C:\Users\fathi\source\repos\action\calc2.Tests\obj\Debug\net6.0\calc2.Tests.sourcelink.json
