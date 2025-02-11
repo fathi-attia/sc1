@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F48B8B2-4ADB-470D-8AAE-EC5E7B6DF743}|..\\calc2.Tests\\calc2.Tests.csproj|c:\\users\\fathi\\source\\repos\\action\\calc2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD09867F-2236-49AB-9CDE-8C7EF3FACEA4}|calc2.csproj|c:\\users\\fathi\\source\\repos\\action\\calc2\\calc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DD09867F-2236-49AB-9CDE-8C7EF3FACEA4}|calc2.csproj|solutionrelative:calc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,21 +21,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 17,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "calc2",
-              "DocumentMoniker": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\calc2.csproj",
-              "RelativeDocumentMoniker": "calc2.csproj",
-              "ToolTip": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\calc2.csproj",
-              "RelativeToolTip": "calc2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T21:12:56.672Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -103,7 +93,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\fathi\\source\\repos\\action\\calc2.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\calc2.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\fathi\\source\\repos\\action\\calc2.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\calc2.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:23:52.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "calc2.csproj",
+              "DocumentMoniker": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\calc2.csproj",
+              "RelativeDocumentMoniker": "calc2.csproj",
+              "ToolTip": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\calc2.csproj",
+              "RelativeToolTip": "calc2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T21:12:56.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fathi\\source\\repos\\action\\calc2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -111,8 +127,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T21:12:09.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T21:12:09.715Z"
             }
           ]
         }

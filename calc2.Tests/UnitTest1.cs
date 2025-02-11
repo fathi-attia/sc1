@@ -24,7 +24,7 @@ namespace calc2.Tests
         {
             // Arrange
             int num1 = -5;
-            int num2 = -3;
+            int num2 = -4;
 
             // Act
             int result = Program.AddNumbers(num1, num2);
